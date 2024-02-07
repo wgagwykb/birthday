@@ -35,7 +35,7 @@
 }
 .velas:after,
 .velas:before {
-  background: rgba(255, 0, 0, 0.4);
+  background: rgba(255,182,193,0.6);
   content: "";
   position: absolute;
   width: 100%;
@@ -101,11 +101,11 @@
 */
 @-webkit-keyframes fuego {
   0% {
-    background: rgba(254, 248, 97, 0.5);
+    background: rgba(187,255,255, 0.5);
     -webkit-transform: translateY(0) scale(1);
   }
   50% {
-    background: rgba(255, 50, 0, 0.1);
+    background: rgba(255, 147, 185, 0.1);
     -webkit-transform: translateY(-60px) scale(0);
   }
   100% {
