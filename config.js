@@ -6,6 +6,7 @@ var config = {
         "送给",      //这里,每句话结尾的最后一个逗号必须是英文的哦!! 很重要哦!!
         "最最亲爱的小邰宝贝",  // 同上...
         "恭喜小邰宝贝于今天人类等级荣升一级！",
+        "祝愿小邰宝贝永远自由舒展，快乐明朗",
         "在此为您献上最诚挚的生日祝福",
         "小邰宝贝生日快乐！"
     ],
@@ -24,13 +25,13 @@ var config = {
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
-        turn_on: "开始",
-        play: "音乐",
-        bannar_coming: "颜色",
+        turn_on: "Start!",
+        play: "欸嘿！",
+        bannar_coming: "go on!",
         balloons_flying: "好像少点东西",
         cake_fadein: "蛋糕？",
         light_candle: "蜡烛？",
-        wish_message: "生日快乐",
+        wish_message: "宝贝生日快乐！",
         story: "A MESSAGE FOR YOU",
     }
 };
