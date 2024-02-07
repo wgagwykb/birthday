@@ -161,7 +161,7 @@
     transform: translateY(0) scale(1);
   }
   50% {
-    background: rgba(255, 50, 0, 0.1);
+    background: #ff69b4;
     transform: translateY(-60px) scale(0);
   }
   100% {
